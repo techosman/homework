@@ -1,0 +1,15 @@
+body{
+    margin: 20px;
+    background-color: #dddddd;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    color: olive;
+}
+h3{
+    color: red;
+}
